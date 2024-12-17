@@ -22,9 +22,26 @@ In the `data/` directory, you will find the IDs and labels used in our research.
 
 ## Citation 📑
 
-If you use this dataset or any part of the code included in this repository, please cite the following reference:
+If you use this model or any part of the code included in this repository, please cite the following reference:
 
 Coming soon!
+
+If you use MetaHate dataset, please cite the following reference:
+
+```bibtex
+@article{Piot_Martín-Rodilla_Parapar_2024,
+  title={MetaHate: A Dataset for Unifying Efforts on Hate Speech Detection},
+  volume={18},
+  url={https://ojs.aaai.org/index.php/ICWSM/article/view/31445},
+  DOI={10.1609/icwsm.v18i1.31445},
+  number={1},
+  journal={Proceedings of the International AAAI Conference on Web and Social Media},
+  author={Piot, Paloma and Martín-Rodilla, Patricia and Parapar, Javier},
+  year={2024},
+  month={May},
+  pages={2025-2039}
+}
+```
 
 ## Disclaimer ⚠️
 
