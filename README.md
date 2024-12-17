@@ -1,5 +1,5 @@
 # <img src="img/meta_hate_distilled.png" alt="Hate Speech Detection" width="22"/> Towards Efficient and Explainable Hate Speech Detection via Model Distillation
-<p align="center">
+<p align="center" width="150px">
   <img src="img/meta_hate_distilled.png" />
 </p>
 
