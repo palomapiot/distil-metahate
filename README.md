@@ -6,9 +6,12 @@
 
 ## Overview 🌟
 
-This project presents a **Llama-3-8B-Distil-MetaHate** a Llama 3 8B distilled model designed for hate speech explanation and classification. By utilizing **Chain-of-Thought** methodologies, we aim to enhance the interpretability and operational efficiency of hate speech detection systems. The model is available for use [here](https://huggingface.co/irlab-udc/Llama-3-8B-Distil-MetaHate).
+This project presents a **Llama-3-8B-Distil-MetaHate** a Llama 3 8B distilled model designed for hate speech explanation and classification. By utilizing **Chain-of-Thought** methodologies, we aim to enhance the interpretability and operational efficiency of hate speech detection systems.
 
 This work was accepted at the 47th European Conference on Information Retrieval (ECIR 2025). Paper soon! 📄
+
+## Model <img src="https://huggingface.co/favicon.ico" alt="Hugging Face" width="28" style="vertical-align: middle;"/>
+The model is available for use in [Hugging Face](https://huggingface.co/irlab-udc/Llama-3-8B-Distil-MetaHate) <img src="https://huggingface.co/favicon.ico" alt="Hugging Face" width="16" style="vertical-align: middle;"/>
 
 ## Contents 📚
 
