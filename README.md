@@ -27,7 +27,17 @@ In the `data/` directory, you will find the IDs and labels used in our research.
 
 If you use this model or any part of the code included in this repository, please cite the following reference:
 
-Coming soon!
+```bibtex
+@misc{piot2024efficientexplainablehatespeech,
+      title={Towards Efficient and Explainable Hate Speech Detection via Model Distillation}, 
+      author={Paloma Piot and Javier Parapar},
+      year={2024},
+      eprint={2412.13698},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2412.13698}, 
+}
+```
 
 If you use MetaHate dataset, please cite the following reference:
 
