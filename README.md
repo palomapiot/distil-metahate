@@ -76,4 +76,4 @@ For further questions, inquiries, or discussions related to this project, please
 
 - **Email:** [paloma.piot@udc.es](mailto:paloma.piot@udc.es)
 
-If you encounter any issues or have specific questions about the code, we recommend opening an [issue on GitHub](https://github.com/your_username/your_project/issues) for better visibility and collaboration.
+If you encounter any issues or have specific questions about the code, we recommend opening an [issue on GitHub](https://github.com/palomapiot/distil-metahate/issues) for better visibility and collaboration.
